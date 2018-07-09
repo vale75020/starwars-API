@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+  
+}
+
+.char-name{
+  color:#E1ED8A;
+}
+
+
+
+.center, p {
+  color: white
+}
+
+.jumbotron{
+  background-color: rgba(39,50,56,0.6);
+  
+}
+
+.container {
+  background-image: url("10101.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+li{
+  color:white;
+  text-decoration: none;
+}
+
+.user-details{
+  background-color: rgba(97,125,138,0.6);
+  padding: 10px;
+
+}
+
+h3, h4{color:white}
+
+.embed-responsive{
+  margin: 20px auto
+}
+
+ul {
+  list-style-type: none;
+  }
+  
+
